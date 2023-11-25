@@ -1,16 +1,25 @@
-*{
-    font-family: 'Marhey', sans-serif;
+* {
+  font-family: "Marhey", sans-serif;
 }
 
-body{
-    background-color: #72d8ff;
+body {
+  background-color: #72d8ff;
 }
 
-#logo{
-    width: 50px;
+#logo {
+  width: 50px;
 }
 
-.card.week{
-   height: 700px;
-   width: 320px;
+.card-img-top.img-fluid {
+  height: 200px;
+  object-fit: cover;
+}
+
+.d-block.img-fluid {
+  aspect-ratio: 1/1;
+  height: 200px;
+}
+
+footer{
+    background-color: white;
 }
