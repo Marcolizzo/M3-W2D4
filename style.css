@@ -1,0 +1,16 @@
+*{
+    font-family: 'Marhey', sans-serif;
+}
+
+body{
+    background-color: #72d8ff;
+}
+
+#logo{
+    width: 50px;
+}
+
+.card.week{
+   height: 700px;
+   width: 320px;
+}
